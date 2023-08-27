@@ -1,0 +1,21 @@
+,Country,Ship Mode,Days to Ship,Product Name,Discount,Actual Discount,Sales,Quantity,Sub-Category,Order Day of Week,Order Day of Year,Order Year,Ship Day of Week,Ship Day of Year,Ship Year
+6463,Netherlands,Priority,3,"Boston Pencil Sharpener, Water Color",0.5,22.0,44,3,Art,6,192,2016,2,195,2016
+7708,Germany,Economy,5,"Ikea Stackable Bookrack, Mobile",0.1,22.5,225,2,Bookcases,0,333,2016,5,338,2016
+7695,France,Priority,2,"Wilson Jones 3-Hole Punch, Durable",0.0,0.0,59,2,Binders,6,332,2016,1,334,2016
+1848,Germany,Economy,4,"Rogers Lockers, Industrial",0.1,114.5,1145,6,Storage,6,117,2014,3,121,2014
+6469,Italy,Economy,5,"Sauder 3-Shelf Cabinet, Pine",0.0,0.0,504,3,Bookcases,0,193,2016,5,198,2016
+6258,France,Economy Plus,4,"Binney & Smith Markers, Water Color",0.0,0.0,27,1,Art,4,162,2016,1,166,2016
+6645,United Kingdom,Economy,5,"Stanley Markers, Easy-Erase",0.0,0.0,180,8,Art,6,220,2016,4,225,2016
+6688,Belgium,Economy,5,"BIC Canvas, Blue",0.0,0.0,107,2,Art,3,224,2016,1,229,2016
+4359,France,Economy,4,"SanDisk Numeric Keypad, Erganomic",0.0,0.0,171,3,Accessories,5,220,2015,2,224,2015
+504,Germany,Economy Plus,4,"Boston Pencil Sharpener, Water Color",0.0,0.0,58,2,Art,4,165,2013,1,169,2013
+1000,France,Economy,6,"Stiletto Shears, Serrated",0.0,0.0,90,2,Supplies,6,272,2013,5,278,2013
+4677,Germany,Economy,7,"SAFCO Bag Chairs, Black",0.1,4.2,42,1,Chairs,3,253,2015,3,260,2015
+1219,France,Economy,6,"Avery 3-Hole Punch, Recycled",0.0,0.0,56,2,Binders,5,327,2013,4,333,2013
+7593,France,Economy,4,"Canon Ink, Digital",0.15,37.5,250,2,Copiers,5,324,2016,2,328,2016
+7557,France,Economy Plus,3,"Brother Wireless Fax, Color",0.15,96.9,646,2,Copiers,3,322,2016,6,325,2016
+446,Germany,Economy Plus,2,"Avery Color Coded Labels, 5000 Label Set",0.0,0.0,14,1,Labels,3,157,2013,5,159,2013
+7620,United Kingdom,Economy,5,"Motorola Audio Dock, VoIP",0.0,0.0,520,3,Phones,0,326,2016,5,331,2016
+350,United Kingdom,Economy,4,"Stanley Pencil Sharpener, Water Color",0.0,0.0,200,8,Art,4,130,2013,1,134,2013
+4069,Italy,Economy Plus,4,"BIC Pencil Sharpener, Fluorescent",0.0,0.0,242,8,Art,0,166,2015,4,170,2015
+3198,France,Priority,2,"Kraft Interoffice Envelope, Security-Tint",0.0,0.0,99,2,Envelopes,0,349,2014,2,351,2014
