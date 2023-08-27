@@ -11,7 +11,7 @@ import streamlit as st
 import pandas as pd
 
 # Load the saved ML model
-with open(r"C:\Users\Lenovo\Downloads\best_model.pkl", 'rb') as model_file:
+with open("best_model.pkl", 'rb') as model_file:
     loaded_model = pickle.load(model_file)
 
 # Function to make predictions
